@@ -1,0 +1,15 @@
+<!DOCTYPE HTML > 
+<html> 
+<head>
+<style>
+p{ 
+text-align:center; 
+color:red; 
+} 
+</style>
+</head>
+<body> 
+<p>Style</p>
+<p id="para1">Me Too!</p>
+<\body>
+<\html> 
